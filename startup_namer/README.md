@@ -1,6 +1,6 @@
-# my_app
+# startup_namer
 
-A new Flutter project.
+Flutter application to scroll and generate names
 
 ## Getting Started
 
